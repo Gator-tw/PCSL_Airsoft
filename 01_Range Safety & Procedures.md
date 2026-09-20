@@ -15,7 +15,7 @@ Keep your finger out of the trigger guard when not actively engaging targets.
 Know your target, its background, and its foreground before engagement.
 
 ## 1.2 Cold Range
-PCSL matches operate as **cold range events**. This means that all firearms must remain free of all live ammunition in their chambers, actions, and inserted or attached magazines or cylinders unless under the direct supervision of an RO, or safely handled while at a designated function fire area ([Section 1.7](<#1.7 Function Fire or Practice Areas>)). Violations shall result in a **Match DQ** ([Section 15.6](<15_Match Disqualifications.md#15.6 Violation of the cold range policy>)).
+PCSL matches operate as **cold range events**. This means that all firearms must remain free of all live ammunition in their chambers, actions, and inserted or attached magazines or cylinders unless under the direct supervision of an RO, or safely handled while at a designated function fire area ([Section 1.7](#17-function-fire-or-practice-areas)). Violations shall result in a **Match DQ** ([Section 15.6](<15_Match Disqualifications.md#15.6 Violation of the cold range policy>)).
 
 ## 1.3 Handling of firearms while on the range
 
